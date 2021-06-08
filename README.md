@@ -4,10 +4,6 @@ by Gusti Agung#9357
 
 -----------------------------------------------------------
 
-Instalasi :
-+ Tambahkan Script Ini Ke Resources Anda
-+ Jalankan db.sql
-+ Tambahkan Ini Ke server.cfg :
 ```
 start DiscordCommand
 ```
